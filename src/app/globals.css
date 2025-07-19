@@ -1,0 +1,8 @@
+@import "tailwindcss";
+:root {
+  --font-hubot-sans: "Hubot Sans", sans-serif;
+}
+
+body {
+  font-family: var(--font-hubot-sans);
+}
